@@ -4,7 +4,13 @@
 
 プログラミングはちょっとできる程度です。
 
+趣味で自宅サーバやってます。
+
+Proxmox上のVMでKubernetesクラスター組んでArgo CDでGitOpsしてます。
+外部サービス系はTerraformで管理してます。
+
 ## スキル
+
 - Docker / Kubernetes
 - Git / GitHub
 - CI/CD
@@ -27,12 +33,8 @@
   - ServiceNow
 
 ## 趣味
-- ゲーム
-  - ガルパ
-  - ブルーアーカイブ
-  - 崩壊スターレイル
-  - Minecraft
-  - Palworld
 - PC / ガジェット
-- 電子工作(最近は全く...)
+- 電子工作
 - オーディオ(イヤホン, DAC, DAPなど)
+- アニメ / マンガ(日常, 異世界, 戦闘系)
+- Vtuber
